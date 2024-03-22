@@ -8,6 +8,9 @@
 
 ### Train model
 
+- Download dataset from https://www.kaggle.com/datasets/crawford/cat-dataset/
+- unzip in project_root_directory/data
+
 run `python train.py`
 
 ### Evaluate model based on parameters from the serialized PyTorch state dictionary
